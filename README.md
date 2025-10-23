@@ -14,7 +14,7 @@ from core import engine, adapt
 
 
 def run():
-    print("🌍 Welcome to Pulse")
+    print("🌍 Welcome to PulseHub")
     print("⚡ Bold Experiments | 💥 High-Impact Solutions | 🔁 Adaptability\n")
 
     # Demo features
