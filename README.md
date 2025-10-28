@@ -10,7 +10,7 @@
 Main entry point for PulseHub.
 """
 
-from core import engine, adapt high-impact
+from core import engine, adapt high
 
 
 def run():
