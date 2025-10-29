@@ -74,7 +74,7 @@ def evolve_parameters(params: dict, learning_rate: float = 0.1) -> dict:
 # ---------- tests/test_adapt.py ----------
 """
 Unit tests for adapt.py
-Run with: py
+Run with: pytest
 """
 
 from core import adapt
