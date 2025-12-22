@@ -1,7 +1,7 @@
 # ================================
 # Project: PulseHub
 # Description:
-# A living, breathin' hub for bold experiments and high-impact solutions.
+# A living, breath hub for bold experiments and high-impact solutions.
 # Designed to deliver strength and adaptability in every project.
 # ================================
 
