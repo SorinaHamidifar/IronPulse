@@ -50,7 +50,7 @@ def system_pulse():
 # ---------- core/adapt.py ----------
 """
 Adaptability and smart-response utilities.
-Helps the system evolve and tune itself dynamically.
+Helps the system evolve and tune itself .
 """
 
 def dynamic_adjustment(score: float) -> str:
