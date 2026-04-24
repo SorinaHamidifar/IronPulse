@@ -31,7 +31,7 @@ if __name__ == "__main__":
 # ---------- core/engine.py ----------
 """
 Core experimentation engine.
-Handles  for experimental computations and high-impact prototypes.
+Handles log for experimental computations and high-impact prototypes.
 """
 
 import time
