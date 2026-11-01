@@ -15,7 +15,7 @@ from core import engine, adapt
 
 def run():
     print("🌍 Welcome to PulseHub")
-    print("⚡ Bold Experiments | 💥  | 🔁 Adaptability\n")
+    print("⚡ Bold Experiments | 💥 High | 🔁 Adaptability\n")
 
     # Demo features
     data = [3, 9, 27, 81]
